@@ -13,7 +13,7 @@ body {
 }
 
 .header_section {
-    background-image: url("img/arequipa_center_high.jpg");
+    background-image: url("./img/arequipa_center_high.jpg");
     background-size: cover;
     background-position: 0 10%;
     width: 100%;
@@ -97,17 +97,17 @@ body {
 }
 
 .fauna_container {
-    background-image: url("img/alpaca_sander-lenaerts.jpg");
+    background-image: url("./img/alpaca_sander-lenaerts.jpg");
     background-position: 0% 50%;
 }
 
 .gastronomy_container {
-    background-image: url("img/ceviche_pirata_studio_film.jpg");
+    background-image: url("./img/ceviche_pirata_studio_film.jpg");
     background-position: 50% 0;
 }
 
 .sillar_container {
-    background-image: url("img/sillar_amilcar-alvarez-garcia.jpg");
+    background-image: url("./img/sillar_amilcar-alvarez-garcia.jpg");
     background-position: 0 70%;
 
 }
@@ -160,7 +160,7 @@ body {
 .mypic {
     width: 200px;
     height: 300px;
-    background-image: url("img/mifoto.jpg");
+    background-image: url("./img/mifoto.jpg");
     background-size: cover;
     background-position: center;
     border-radius: 4px;
